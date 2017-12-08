@@ -10,6 +10,8 @@ The goal of the repository is to create a file for each FAQ page available on Am
 ## Contributing Guidelines
 We need help with collecting the content for study materials and creating situational multiple choice questions for practice exams. Our goal is to collect 1000 sample test questions that can randomly assembled into practice exams for our participants.
 
+Fork the project and create pull requests.
+
 ### How To Contribute
 1. Copy and past any page from the AWS FAQ and create a new file in this repositry with the name of the subject matter. For example **S3.md** represents the FAQ of the S3 service on AWS. 
 
