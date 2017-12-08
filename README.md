@@ -17,7 +17,7 @@ We need help with collecting the content for study materials and creating situat
 
 3. Create a walkthrough file that will guide someone through using a particular service via the AWS Console. For example, **s3_console.md** will contain all the UI walkthroughs that one might need in order to execute architecture on S3 via the AWS console.
 
-4. 3. Create a walkthrough file that will guide someone through using a particular service via the AWS Mobile App. For example, **s3_mobile.md** will contain all the UI walkthroughs that one might need in order to execute architecture on S3 via the AWS mobile app.
+4. Create a walkthrough file that will guide someone through using a particular service via the AWS Mobile App. For example, **s3_mobile.md** will contain all the UI walkthroughs that one might need in order to execute architecture on S3 via the AWS mobile app.
 
 ## Future Curriculum
 Once the curriculum described above is completed, we will need to create more detailed curriculum to provide materials to our certified graduates to support them in getting the "Proffessional" certification. The more certifications we can support, the more opportunity our graduates will have to advance their careers and improve their lives.
