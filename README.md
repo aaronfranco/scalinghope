@@ -1,8 +1,8 @@
-# Scaling Hope
-Training low-income single mothers to become AWS Certified Solutions Architects
+# Scaling Hope Curriculum
+Training low-income single mothers to become AWS Certified Solutions Architects. We are building an 8 month long program of self study and two 5 hour classroom sessions per month. The goal of the 8 months is to certify 1 cohort of 10-20 single mothers as AWS Solutions Architect Associates. 
 
 ## About This Repository
-This is the curriculum repository for Scaling Hope training materials.
+This is the curriculum repository for Scaling Hope training materials. 
 
 ## Goal
 The goal of the repository is to create a file for each FAQ page available on Amazon's website regarding Amazon Web Services. The FAQ will be used as the basis for study materials aimed at passing the AWS Certified Solutions Architect Associate exam. 
